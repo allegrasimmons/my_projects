@@ -20,7 +20,7 @@ Welcome to my Data Science portfolio! Here, I document a summary of my projects.
 | Project | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | 🏡 [Cancer Trends in the U.S.](https://groups.ischool.berkeley.edu/CancerTrendsintheUS/index.html) |  May 2024 | Tableau |  Created visualization in Tableau to help identify trends in cancer incidence and mortality rates between 1999 and 2019 in the United States. We focused specifically on showing cancer incidence and mortality rates by 4 factors: state, gender, age groups, and race. |
-| 💭 [Car Thefts in San Francisco](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://fdd0204e-4b03-47e1-8703-9b8ea6bb6cbc.filesusr.com/ugd/b998b6_116151c436be49cf8f82b6c2252c34a8.pdf) | Decemeber 2022 |Python (Pandas, Numpy, Matplotlib, Seaborn) | Developed visualizations to analyze weekly and monthly patterns, district-specific crime rates, resolution rates, and their potential correlations with socioeconomic factors, aiming to guide more effective crime prevention strategies and resource distribution. |
+| 💭 [Car Thefts in San Francisco](https://fdd0204e-4b03-47e1-8703-9b8ea6bb6cbc.filesusr.com/ugd/b998b6_116151c436be49cf8f82b6c2252c34a8.pdf) | Decemeber 2022 |Python (Pandas, Numpy, Matplotlib, Seaborn) | Developed visualizations to analyze weekly and monthly patterns, district-specific crime rates, resolution rates, and their potential correlations with socioeconomic factors, aiming to guide more effective crime prevention strategies and resource distribution. |
 
 # Data Engineering 
 
